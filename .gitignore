@@ -1,4 +1,7 @@
 data/
+saved_models/
 lightning_logs
+mlflow.db
+artifacts/
 .ipynb_checkpoints
 .DS_Store
